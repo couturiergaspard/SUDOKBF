@@ -1,5 +1,6 @@
 # Sudoku Solver en Python
-
+![Grille de Sudoku](<img width="396" alt="Capture d’écran 2024-10-08 à 11 14 47" src="https://github.com/user-attachments/assets/d7e65d45-1f3c-4524-8eb1-99645a8cf80b">
+)
 ## Description
 
 Ce programme implémente un jeu de Sudoku interactif en Python. Il génère aléatoirement une grille de Sudoku pré-remplie avec des valeurs, puis résout le Sudoku en utilisant une méthode de backtracking (brute force). Les utilisateurs peuvent visualiser les étapes de la résolution avec une barre de progression, un compteur de tentatives, et des mises en surbrillance pour une expérience utilisateur améliorée.
