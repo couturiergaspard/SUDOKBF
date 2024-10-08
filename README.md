@@ -1,5 +1,5 @@
 # Sudoku Solver en Python
-![Grille de Sudoku](<img width="396" alt="Capture d’écran 2024-10-08 à 11 14 47" src="https://github.com/user-attachments/assets/d7e65d45-1f3c-4524-8eb1-99645a8cf80b">
+![Grille de Sudoku](Capture d’écran 2024-10-08 à 11.14.47.png)>
 )
 ## Description
 
